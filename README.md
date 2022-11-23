@@ -1,4 +1,4 @@
-Game Mechanic
+Game Mechanic:
 Players should go through all checkpoints(rings) in a limited time in order to win the game.
 
 
